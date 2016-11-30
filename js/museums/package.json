@@ -2,6 +2,7 @@
   "name": "museums",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://scratchpad.fashionablenonsense.com/museums",
   "devDependencies": {
     "react-scripts": "0.7.0"
   },
